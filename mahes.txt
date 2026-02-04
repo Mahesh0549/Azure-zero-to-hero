@@ -8,3 +8,5 @@ this is the testing commit of non-ff
 this is the feat1-branch
 git rebase test
 This is the main rebase test
+
+This is the line after rebase
